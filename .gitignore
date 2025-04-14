@@ -1,0 +1,22 @@
+# 環境變數
+.env
+.env.local
+.env.*.local
+
+# 依賴目錄
+node_modules/
+
+# 日誌
+logs
+*.log
+npm-debug.log*
+
+# 運行時檔案
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 測試覆蓋率
+coverage/ 
